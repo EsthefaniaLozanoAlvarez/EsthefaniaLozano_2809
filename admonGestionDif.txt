@@ -1,0 +1,4 @@
+<h1>Mi definición de administración y gestión</h1>
+<p>La administración se refiere a utilizar los recursos disponibles
+para planear acciones que nos lleven a conseguir los objetivos que 
+tenemos, y la gestión se refiere a llevar a cabo eso que planeamos.</p>
