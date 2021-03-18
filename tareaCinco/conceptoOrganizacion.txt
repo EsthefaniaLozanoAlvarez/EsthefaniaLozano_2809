@@ -1,0 +1,5 @@
+El concepto de organización respecto a la administración y organización de los centros 
+de cómputo se refiere a la planificación de todo lo que conlleva el mismo: la estructura 
+tanto física como de los recursos humanos que intervienen, las jerarquías de acuerdo a 
+la responsabilidad por actividad y en general la creación de un "sistema" que regule las 
+actividades, con el fin de que exista un correcto funcionamiento de este.
